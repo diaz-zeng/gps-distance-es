@@ -17,7 +17,7 @@ npm install gps-distance-es
 Examples
 ========
 
-`gps-distance-es` 支持两种调用方式.如果是测量两点距离，可以用 `(source_lat, source_lon, destination_lat, destination_lon)`方式调用, 如果要计算多点组成的路径长度，则可以传入一个 `[lat,lon]` 格式的数组. 详见下方示例.
+`gps-distance-es` 支持两种调用方式，如果是测量两点距离，可以用 `(source_lat, source_lon, destination_lat, destination_lon)`方式调用，如果要计算多点组成的路径长度，则可以传入一个 `[lat,lon]` 格式的数组。详见下方示例。
 
 点对点
 --------------
@@ -51,4 +51,4 @@ var result2 = distance(path);
 注意
 -----
 
-距离利用[半正矢公式](https://zh.wikipedia.org/wiki/%E5%8D%8A%E6%AD%A3%E7%9F%A2%E5%85%AC%E5%BC%8F)计算，返回单位为公里，所以计算结果仅为大致距离，不能代表精确距离
+距离利用[半正矢公式](https://zh.wikipedia.org/wiki/%E5%8D%8A%E6%AD%A3%E7%9F%A2%E5%85%AC%E5%BC%8F)计算，返回单位为公里，所以计算结果仅为大致距离，不能代表精确距离。
