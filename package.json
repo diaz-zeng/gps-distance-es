@@ -5,7 +5,7 @@
     "email": "diaz-zeng@outlook.com",
     "url": "diaz-zeng.github.io"
   },
-  "version": "1.0.0-alpha.2",
+  "version": "1.0.0",
   "description": "Typescript refactoring version of gps-distance",
   "typings": "typings/index.d.ts",
   "main": "lib/gps-distance-es.cjs.js",
