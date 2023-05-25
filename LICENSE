@@ -1,4 +1,4 @@
-The MIT License (MIT)
+MIT License
 
 Copyright (c) 2023 Diaz Zeng
 
@@ -20,5 +20,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Based on functions defined by Chris Veness
+The code implementation based on functions defined by Chris Veness
 (c) 2002 - 2012 Chris Veness <http://www.movable-type.co.uk/scripts/latlong.html>
